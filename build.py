@@ -46,7 +46,7 @@ EN = dict(
     pricing_h="Simple pricing",
     pricing_intro="The metronome is free, always. Premium unlocks the coaching, and you can try all of it free for 7 days.",
     plans=[
-        ("Free", "€0", "", "", ["The full metronome", "Notation for every rhythm", "Tap tempo and click sounds", "Themes, English and German"], False),
+        ("Free", "€0", "", "", ["The full metronome", "Notation for every rhythm", "Tap tempo and click sounds", "Light and dark themes"], False),
         ("Premium monthly", "€1.99", " / month", "7 days free", ["All 26 lessons", "The timing coach", "Progress, journal and calendar", "Streak badges and reminders", "Cancel anytime in Google Play"], False),
         ("Premium lifetime", "€19.99", " once", "Best value", ["Everything in Premium", "Pay once, keep it forever", "No subscription to manage", "Restores on a new phone"], True),
     ],
@@ -59,7 +59,6 @@ EN = dict(
         ("Can my child use it?", "Yes. The app has no accounts, ads or chat and collects no personal data. Purchases go through Google Play, so Family Link can ask a parent to approve them."),
         ("How do I cancel the subscription?", "In the Google Play app: tap your profile picture, then Payments &amp; subscriptions, then Subscriptions. You can also open it from the app's Premium screen."),
         ("I have a new phone. Do I pay again?", "No. Sign in with the same Google account and tap “Restore purchases” on the Premium screen."),
-        ("Which languages does it speak?", "English and German. On Android 13 and newer you can pick the language in the app's settings."),
     ],
     support_h="Support",
     support_text="Found a bug, have an idea for a lesson, or need help with a purchase? Write to us, and if it's about a problem, tell us your phone model and Android version.",
@@ -94,7 +93,7 @@ DE = dict(
     pricing_h="Einfache Preise",
     pricing_intro="Das Metronom ist kostenlos, für immer. Premium schaltet das Coaching frei, und du kannst alles 7 Tage gratis testen.",
     plans=[
-        ("Gratis", "0 €", "", "", ["Das komplette Metronom", "Notenschrift für jeden Rhythmus", "Tap-Tempo und Klick-Klänge", "Designs, Deutsch und Englisch"], False),
+        ("Gratis", "0 €", "", "", ["Das komplette Metronom", "Notenschrift für jeden Rhythmus", "Tap-Tempo und Klick-Klänge", "Helle und dunkle Designs"], False),
         ("Premium monatlich", "1,99 €", " / Monat", "7 Tage gratis", ["Alle 26 Lektionen", "Der Timing-Coach", "Fortschritt, Tagebuch und Kalender", "Serien-Abzeichen und Erinnerungen", "Jederzeit in Google Play kündbar"], False),
         ("Premium dauerhaft", "19,99 €", " einmalig", "Bester Preis", ["Alles aus Premium", "Einmal zahlen, für immer behalten", "Kein Abo zu verwalten", "Auch auf einem neuen Handy"], True),
     ],
@@ -107,7 +106,6 @@ DE = dict(
         ("Darf mein Kind die App nutzen?", "Ja. Die App hat keine Konten, keine Werbung, keinen Chat und erhebt keine personenbezogenen Daten. Käufe laufen über Google Play, also kann Family Link die Zustimmung eines Elternteils verlangen."),
         ("Wie kündige ich das Abo?", "In der Google-Play-App: auf dein Profilbild tippen, dann Zahlungen &amp; Abos, dann Abos. Du erreichst es auch über den Premium-Bildschirm der App."),
         ("Ich habe ein neues Handy. Zahle ich noch mal?", "Nein. Melde dich mit demselben Google-Konto an und tippe auf dem Premium-Bildschirm auf „Käufe wiederherstellen“."),
-        ("Welche Sprachen spricht die App?", "Deutsch und Englisch. Ab Android 13 kannst du die Sprache in den Einstellungen der App wählen."),
     ],
     support_h="Support",
     support_text="Einen Fehler gefunden, eine Idee für eine Lektion oder Hilfe bei einem Kauf nötig? Schreib uns, und bei einem Problem nenn bitte dein Handymodell und deine Android-Version.",
